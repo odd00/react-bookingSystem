@@ -1,0 +1,197 @@
+{
+  "nav": {
+    "home": "Home",
+    "bookings": "Bookings",
+    "cabins": "Cabins",
+    "users": "Users",
+    "settings": "Settings"
+  },
+  "pages": {
+    "dashboard": "Dashboard",
+    "updateHotelSettings": "Update hotel settings",
+    "allBookings": "All Bookings",
+    "bookingDetails": "Booking Details",
+    "checkIn": "Check In",
+    "allCabins": "All Cabins",
+    "allUsers": "All Users",
+    "account": "Account"
+  },
+  "buttons": {
+    "login": "Login",
+    "logout": "Logout",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "add": "Add",
+    "upload": "Upload",
+    "downloadPDF": "Download PDF",
+    "checkin": "Check In"
+  },
+  "forms": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "nationality": "Nationality",
+    "countryFlag": "Country Flag"
+  },
+  "messages": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "noData": "No data available",
+    "confirmDelete": "Are you sure you want to delete?"
+  },
+  "data": {
+    "uploadAll": "Upload ALL",
+    "uploadBookingsOnly": "Upload bookings ONLY",
+    "sampleData": "SAMPLE DATA"
+  },
+  "table": {
+    "cabin": "Cabin",
+    "guest": "Guest",
+    "dates": "Dates",
+    "status": "Status",
+    "amount": "Amount",
+    "capacity": "Capacity",
+    "price": "Price",
+    "discount": "Discount"
+  },
+  "empty": {
+    "noCabins": "No cabins could be found.",
+    "noBookings": "No bookings could be found.",
+    "noUsers": "No users could be found.",
+    "noGuests": "No guests could be found."
+  },
+  "pagination": {
+    "showing": "Showing",
+    "to": "to",
+    "of": "of",
+    "results": "results",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "confirmDialog": {
+    "deleteConfirm": "Delete",
+    "cancel": "Cancel"
+  },
+  "auth": {
+    "emailAddress": "Email address"
+  },
+  "status": {
+    "unconfirmed": "Unconfirmed",
+    "checkedIn": "Checked in",
+    "checkedOut": "Checked out"
+  },
+  "cabins": {
+    "addNewCabin": "Add new cabin",
+    "cabinName": "Cabin name",
+    "maxCapacity": "Maximum capacity",
+    "regularPrice": "Regular price",
+    "discount": "Discount",
+    "description": "Description for website",
+    "cabinPhoto": "Cabin photo",
+    "edit": "Edit",
+    "delete": "Delete",
+    "fitsUpTo": "Fits up to",
+    "guests": "guests",
+    "duplicate": "Duplicate"
+  },
+  "settings": {
+    "minNights": "Minimum nights/booking",
+    "maxNights": "Maximum nights/booking",
+    "maxGuests": "Maximum guests/booking",
+    "breakfastPrice": "Breakfast price"
+  },
+  "checkin": {
+    "checkInBooking": "Check in booking",
+    "back": "Back",
+    "isUnpaid": "Is this payment already processed?",
+    "breakfastIncluded": "Breakfast included",
+    "confirm": "Confirm check in"
+  },
+  "today": {
+    "today": "Today",
+    "sales": "Sales Chart",
+    "duration": "Stay duration summary",
+    "noActivity": "No activity today...",
+    "arriving": "Arriving",
+    "departing": "Departing",
+    "nights": "nights",
+    "checkIn": "Check in",
+    "checkOut": "Check out"
+  },
+  "bookings": {
+    "deleteBooking": "Delete booking",
+    "checkOut": "Check out",
+    "seeDetails": "See details",
+    "checkIn": "Check in",
+    "today": "Today",
+    "nightStay": "night stay"
+  },
+  "signup": {
+    "fullName": "Full name",
+    "emailAddress": "Email address",
+    "password": "Password (min 8 characters)",
+    "repeatPassword": "Repeat password",
+    "cancel": "Cancel",
+    "createNewUser": "Create new user",
+    "validEmail": "Please provide a valid email address",
+    "minPassword": "Password needs a minimum of 8 characters",
+    "passwordMatch": "Passwords need to match"
+  },
+  "account": {
+    "updateAccount": "Update account",
+    "avatar": "Avatar image",
+    "createNewUser": "Create a new user",
+    "newPassword": "New password (min 8 chars)",
+    "confirmPassword": "Confirm password",
+    "updatePassword": "Update password"
+  },
+  "cabinFilters": {
+    "all": "All",
+    "noDiscount": "No discount",
+    "withDiscount": "With discount"
+  },
+  "cabinSort": {
+    "nameAsc": "Sort by name (A-Z)",
+    "nameDesc": "Sort by name (Z-A)",
+    "priceAsc": "Sort by price (low first)",
+    "priceDesc": "Sort by price (high first)",
+    "capacityAsc": "Sort by capacity (low first)",
+    "capacityDesc": "Sort by capacity (high first)"
+  },
+  "bookingFilters": {
+    "all": "All",
+    "checkedOut": "Checked out",
+    "checkedIn": "Checked in",
+    "unconfirmed": "Unconfirmed"
+  },
+  "bookingSort": {
+    "dateDesc": "Sort by date (recent first)",
+    "dateAsc": "Sort by date (earlier first)",
+    "amountDesc": "Sort by amount (high first)",
+    "amountAsc": "Sort by amount (low first)"
+  },
+  "dashboard": {
+    "bookings": "Bookings",
+    "sales": "Sales",
+    "checkIns": "Check ins",
+    "occupancyRate": "Occupancy rate",
+    "last7Days": "Last 7 days",
+    "last30Days": "Last 30 days",
+    "last90Days": "Last 90 days",
+    "salesFrom": "Sales from",
+    "totalSales": "Total sales",
+    "extrasSales": "Extras sales",
+    "oneNight": "1 night",
+    "twoNights": "2 nights",
+    "threeNights": "3 nights",
+    "fourFiveNights": "4-5 nights",
+    "sixSevenNights": "6-7 nights",
+    "eightFourteenNights": "8-14 nights",
+    "fifteenTwentyOneNights": "15-21 nights",
+    "twentyPlusNights": "21+ nights"
+  }
+}
